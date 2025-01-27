@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Undangan Acara</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+        .container {
+            width: 80%;
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            text-align: center;
+            padding: 20px;
+            background-color: #402ded;
+            color: white;
+            border-radius: 8px 8px 0 0;
+}
+        .header img {
+            width: 100%;  /* Lebar gambar mengikuti lebar header */
+            height: auto;  /* Menjaga rasio gambar */
+            border-radius: 8px 8px 0 0;  /* Menambahkan border radius agar sudut gambar melengkung seperti header */
+        }
+        .content {
+            margin: 20px 0;
+            font-size: 16px;
+            line-height: 1.6;
+        }
+        .button {
+            display: block;
+            text-align: center;
+            background-color: #4CAF50;
+            color: white;
+            padding: 12px 20px;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+        .footer {
+            text-align: center;
+            font-size: 14px;
+            color: #777;
+            padding: 10px;
+            border-top: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="header">
+<img src="F:\Isra Mi'raj\Foto.jpg" alt="Header Gambar Acara">
+            <h1>Undangan Acara Spesial!</h1>
+        </div>
+
+        <div class="content">
+            <p>Kepada Seluruh Karyawan PT. JSI Sinergi Mas Group Site MCM,</p>
+            <p>Assalamualaikum Warahmatullahi Wabarakatuh</p>
+<p>Dengan memohon ridha dan rahmat Allah SWT, kami mengundang Bapak/Ibu/Saudara/i untuk menghadiri acara pengajian dalam rangka memperingati Isra Mi'raj Nabi Muhammad SAW yang diselenggarakan oleh PT. JSI Sinergi Mas Job Site MCM.</p>
+<p>Berikut adalah rincian acara:</p>
+
+            <p><strong>Hari/Tanggal :</strong> Kamis, 30 Januari 2025 </p>
+            <p><strong>Waktu:</strong> Pukul 20.00 WIB - Selesai </p>
+            <p><strong>Tempat:</strong> Masjid JSI Mess KM 66 </p>
+            <p><strong>Penceramah:</strong> Ust M. Ali Mahbub dari Sekolaq Darat, Kutai Barat </p>
+
+                 </div>
+
+        <div class="footer">
+            <p>Terima kasih telah menerima undangan kami. Kami berharap agar bisa bertemu di acara yang penuh berkah ini.</p>
+        </div>
+    </div>
+
+</body>
+</html>
